@@ -1,11 +1,11 @@
 
 ![Lista de Códigos de Ética Usados no Brasil](img/izichtl.png)
 
-Desenvolvedor Web junior/iniciante e  Arquiteto e Urbanista por formação. Estudo com objetivo de ingressar na área do desenvolvimento. 
+>Desenvolvedor Web junior/iniciante e  Arquiteto e Urbanista por formação. Estudo com objetivo de ingressar na área do desenvolvimento. 
 
-#### Conhecimentos:
+### Conhecimentos:
 - #php #nodejs #javascript #typescript #react #NoSql #Sql ...
-#### Atualmente Estudo: 
+### Atualmente Estudo: 
 - Linguagens + Orientação a objetos, Arquitetura de Software e Algoritmos. 
 
 - 📫 izichtl@gmail.com
