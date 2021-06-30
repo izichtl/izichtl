@@ -5,7 +5,8 @@
 na área do desenvolvimento. 
 
 ### Conhecimentos:
-- #php #nodejs #javascript #typescript #react #NoSql #Sql ...
+- #php #nodejs #javascript #typescript #react #NoSql #Sql #NoSql #Sql ...
+- 
 ### Atualmente Estudo: 
 - Linguagens + Orientação a objetos, Arquitetura de Software e Algoritmos. 
 
