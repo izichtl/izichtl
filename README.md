@@ -6,9 +6,12 @@ na área do desenvolvimento.
 
 ### Conhecimentos:
 - #php #nodejs #javascript #typescript #react #NoSql #Sql #NoSql #Sql ...
-- 
+
+- Design Digital, Planejamento e gerenciamento de projetos. 
+
 ### Atualmente Estudo: 
 - Linguagens + Orientação a objetos, Arquitetura de Software e Algoritmos. 
+
 
 - 📫 izichtl@gmail.com
 
