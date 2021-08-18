@@ -1,5 +1,5 @@
-## Ivan Zichtl
-[![Lista de Códigos de Ética Usados no Brasil](img/izichtl.png)](https://izichtl.github.io/portifolio/)
+
+[![object_code_image](img/izichtl.png)](https://quemsoueu.netlify.app/)
 
 >Comecei a estudar código para tentar resolver alguns problemas com arquitetura paramétrica e acabei gostando.
 
