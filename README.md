@@ -3,12 +3,12 @@
 
 >Comecei a estudar código para tentar resolver alguns problemas com arquitetura paramétrica e acabei gostando.
 
-###### Conhecimentos: 
+##### Conhecimentos: 
 - html, css, markdown, javascript, typescript, php, jsx, ejs.
 - RegEx, Api, NodeJs, React, MongoDB, Express, Jekyll.
 - CLI, Git, Github, PMBOK, Scrum, Inglês Técnico.
 
-###### Atualmente Estudo: 
+##### Atualmente Estudo: 
 - /(node | php | ruby)/g + POO
 - Arquitetura de Software e Algoritmos. 
 
