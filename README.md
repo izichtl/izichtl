@@ -1,21 +1,23 @@
 ## Ivan Zichtl
 [![Lista de Códigos de Ética Usados no Brasil](img/izichtl.png)](https://izichtl.github.io/portifolio/)
 
->Desenvolvedor Web junior/iniciante e  Arquiteto e Urbanista por formação. Estudo com objetivo de ingressar
-na área do desenvolvimento. 
+>Comecei a estudar código para tentar resolver alguns problemas com arquitetura paramétrica e acabei gostando.
 
-### Conhecimentos:
-- #php #nodejs #javascript #typescript #react #NoSql #Sql #NoSql #Sql ...
+###### Conhecimentos: 
+- html, css, markdown, javascript, typescript, php, jsx, ejs.
+- RegEx, Api, NodeJs, React, MongoDB, Express, Jekyll.
+- CLI, Git, Github, PMBOK, Scrum, Inglês Técnico.
 
-- Design Digital, Planejamento e gerenciamento de projetos. 
+###### Atualmente Estudo: 
+- /(node | php | ruby)/g + POO
+- Arquitetura de Software e Algoritmos. 
 
-### Atualmente Estudo: 
-- Linguagens + Orientação a objetos, Arquitetura de Software e Algoritmos. 
 
 
+
+###### Contatos:
 - 📫 izichtl@gmail.com
+-  21 98260-8223
 
-<!---
-izichtl/izichtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Portifólio](https://quemsoueu.netlify.app/)
+- [Linkedin](https://quemsoueu.netlify.app/)
